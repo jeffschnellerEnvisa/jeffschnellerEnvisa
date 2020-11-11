@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Jeff 👋
+
+## I'm a Full stack developer, mostly focused on building apis with java.  
+
 
 <!--
 **jeffschnellerEnvisa/jeffschnellerEnvisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
